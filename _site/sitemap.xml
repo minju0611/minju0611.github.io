@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/posts/%EB%93%9C%EB%94%94%EC%96%B4-%ED%95%B4%EB%83%88%EB%8B%A4!!!/</loc>
+<loc>http://localhost:4000/posts/%ED%95%B4%EC%B9%98%EC%9B%A0%EB%82%98/</loc>
 <lastmod>2024-11-21T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>
-<lastmod>2024-11-21T17:17:54+09:00</lastmod>
+<lastmod>2024-11-21T17:25:03+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2024-11-21T17:17:54+09:00</lastmod>
+<lastmod>2024-11-21T17:25:03+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/archives/</loc>
-<lastmod>2024-11-21T17:17:54+09:00</lastmod>
+<lastmod>2024-11-21T17:25:03+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2024-11-21T17:17:54+09:00</lastmod>
+<lastmod>2024-11-21T17:25:03+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
