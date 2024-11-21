@@ -2,56 +2,29 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>MinjuBlog</title>
+  <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-21T17:33:04+09:00</updated>
+  <updated>2024-11-21T17:20:52+08:00</updated>
   <author>
-    <name>최민주(Choi min ju)</name>
+    <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 최민주(Choi min ju) </rights>
+  <rights> © 2024 your_full_name </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>해치웠나</title>
-    <link href="http://localhost:4000/posts/%ED%95%B4%EC%B9%98%EC%9B%A0%EB%82%98/" rel="alternate" type="text/html" title="해치웠나" />
-    <published>2024-11-20T17:05:00+09:00</published>
-  
-    <updated>2024-11-21T00:00:00+09:00</updated>
-  
-    <id>http://localhost:4000/posts/%ED%95%B4%EC%B9%98%EC%9B%A0%EB%82%98/</id>
-    <content type="text/html" src="http://localhost:4000/posts/%ED%95%B4%EC%B9%98%EC%9B%A0%EB%82%98/" />
-    <author>
-      <name>최민주(Choi min ju)</name>
-    </author>
-
-  
-    
-    <category term="Blog" />
-    
-  
-
-  <summary>이제 남은 일은 마크다운과 친해지는 것… 아자뵤.!
-정말 험난하게 블로그 만들기 성공했걸랑요?
-이 노고를 모두 포스팅 하겠습니다…
-(사실 뭐..그렇게 힘들진 않았나..? 벌써 추억보정인 거 같기듀 헤헤)</summary>
-
-  </entry>
-
-  
-  <entry>
     <title>Customize the Favicon</title>
     <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T01:34:00+09:00</published>
+    <published>2019-08-11T00:34:00+08:00</published>
   
-    <updated>2024-11-21T17:31:44+09:00</updated>
+    <updated>2024-11-21T16:31:44+08:00</updated>
   
     <id>http://localhost:4000/posts/customize-the-favicon/</id>
     <content type="text/html" src="http://localhost:4000/posts/customize-the-favicon/" />
@@ -79,9 +52,9 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   <entry>
     <title>Getting Started</title>
     <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T21:55:00+09:00</published>
+    <published>2019-08-09T20:55:00+08:00</published>
   
-    <updated>2024-11-21T17:31:44+09:00</updated>
+    <updated>2024-11-21T16:31:44+08:00</updated>
   
     <id>http://localhost:4000/posts/getting-started/</id>
     <content type="text/html" src="http://localhost:4000/posts/getting-started/" />
@@ -105,9 +78,9 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   <entry>
     <title>Writing a New Post</title>
     <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T15:10:00+09:00</published>
+    <published>2019-08-08T14:10:00+08:00</published>
   
-    <updated>2024-11-21T17:31:44+09:00</updated>
+    <updated>2024-11-21T16:31:44+08:00</updated>
   
     <id>http://localhost:4000/posts/write-a-new-post/</id>
     <content type="text/html" src="http://localhost:4000/posts/write-a-new-post/" />
@@ -135,9 +108,9 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
   <entry>
     <title>Text and Typography</title>
     <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-08-08T12:33:00+09:00</published>
+    <published>2019-08-08T11:33:00+08:00</published>
   
-    <updated>2024-11-21T17:31:44+09:00</updated>
+    <updated>2024-11-21T16:31:44+08:00</updated>
   
     <id>http://localhost:4000/posts/text-and-typography/</id>
     <content type="text/html" src="http://localhost:4000/posts/text-and-typography/" />
