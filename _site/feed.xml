@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>MinjuBlog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-21T17:25:03+09:00</updated>
+  <updated>2024-11-21T17:25:24+09:00</updated>
   <author>
     <name>최민주(Choi min ju)</name>
     <uri>http://localhost:4000/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>해치웠나?!</title>
-    <link href="http://localhost:4000/posts/%ED%95%B4%EC%B9%98%EC%9B%A0%EB%82%98/" rel="alternate" type="text/html" title="해치웠나?!" />
+    <title>해치웠나</title>
+    <link href="http://localhost:4000/posts/%ED%95%B4%EC%B9%98%EC%9B%A0%EB%82%98/" rel="alternate" type="text/html" title="해치웠나" />
     <published>2024-11-21T17:05:00+09:00</published>
   
     <updated>2024-11-21T00:00:00+09:00</updated>
