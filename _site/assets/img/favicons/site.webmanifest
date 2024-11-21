@@ -1,8 +1,8 @@
 
 
 {
-  "name": "Minju",
-  "short_name": "Minju",
+  "name": "MinjuBlog",
+  "short_name": "MinjuBlog",
   "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
   "icons": [
     {

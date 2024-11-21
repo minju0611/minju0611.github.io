@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Minju # the main title
+title: MinjuBlog # the main title
 
 tagline: 반갑습니당 # it will display as the subtitle
 
