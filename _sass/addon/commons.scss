@@ -688,7 +688,10 @@ $btn-mb: 0.5rem;
   height: 100%;
   overflow-y: auto;
   width: $sidebar-width;
-  background: var(--sidebar-bg);
+  /* background: var(--sidebar-bg); */
+  background: url('/assets/img/purplecheck.jpeg');
+  background-size: 100% 100%;
+  background-position: center;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for IE, Edge and Firefox */
